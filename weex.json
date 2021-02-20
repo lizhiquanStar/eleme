@@ -1,0 +1,24 @@
+{
+  "errno": 0,
+  "data": {
+    "total": 2,
+    "pages": 1,
+    "limit": 1,
+    "page": 1,
+    "list": [
+      {
+        "id": 1181000,
+        "name": "轮播图1",
+        "item_href": "pages/order/order?id=1",
+        "picUrl": "http://yanxuan.nosdn.127.net/1f67b1970ee20fd572b7202da0ff705d.png"
+      },
+      {
+        "id": 1181001,
+        "name": "轮播图2",
+        "item_href": "pages/order/order?id=2",
+        "picUrl": "http://yanxuan.nosdn.127.net/1f67b1970ee20fd572b7202da0ff705d.png"
+      }
+    ]
+  },
+  "errmsg": "成功"
+}
